@@ -32,7 +32,5 @@ apple.buy_product('iphone Xs', 5)
 
 print(apple)
 
-
-# print(kamal)
         
 
